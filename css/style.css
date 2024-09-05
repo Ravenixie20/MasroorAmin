@@ -10,6 +10,9 @@ body {
 .body-width {
     max-width: 1240px;
     margin: 0 auto;
+
+}
+.body-height {
     height: 100dvh;
 }
 
@@ -89,4 +92,42 @@ body {
     border-color:#474306;
 
     
+}
+
+.about-title h1{
+    
+
+    font-size: 100px;
+    font-weight: 800;
+    line-height: 116px;
+    color: #F7F197;
+}
+
+.about-title p  {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: auto;
+    color: #03045E;
+    max-width: 900px;
+    margin-top: -50px;
+}
+
+.year-p {
+   font-size: 24px;
+   font-weight: 600;
+   color: #03045E;
+
+}
+
+.year-sub {
+    margin-top: -20px;
+    font-size: 24px;
+   font-weight: 400;
+   color: #03045E;
+}
+
+.year-div {
+    width: 930px;
+    margin-left: 250px;
+    padding-top: 80px;
 }
