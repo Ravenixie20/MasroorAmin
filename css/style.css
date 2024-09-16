@@ -131,3 +131,40 @@ body {
     margin-left: 250px;
     padding-top: 80px;
 }
+
+.work-title h1{
+  
+    font-size: 100px;
+font-weight: 800;
+line-height: 116px;
+color: #F7F197 ;
+}
+.Work-P{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: auto;
+    color: #03045E;
+    max-width: 900px;
+    margin-top: -50px;
+}
+.image-parent{
+    display: flex;
+}
+
+.contact h1 {
+    font-size: 100px;
+    font-weight: 800;
+    line-height: 116px;
+    color: #F7F197;
+}
+.cont-img {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 50px;
+    align-items: center;
+}
+
+.cont-img p {
+    font-size: 24px;
+
+}
